@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Legend M54';
+    src: url('LegendM54.woff2') format('woff2'),
+        url('LegendM54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
